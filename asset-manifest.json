@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.aee274f3.css",
-    "main.js": "./static/js/main.bfe89e7c.js",
+    "main.css": "./static/css/main.2296bcf3.css",
+    "main.js": "./static/js/main.96ec38b0.js",
     "static/js/453.72d88ddf.chunk.js": "./static/js/453.72d88ddf.chunk.js",
     "static/media/mobile_banner_3.svg": "./static/media/mobile_banner_3.ee3ad4556bcef5c4f512.svg",
     "static/media/mobile_banner_1.svg": "./static/media/mobile_banner_1.cc4ef92d628956037bcf.svg",
     "static/media/mobile_banner_4.svg": "./static/media/mobile_banner_4.5c227e19e0d1705549d2.svg",
     "static/media/mobile_banner_2.svg": "./static/media/mobile_banner_2.75712165fb0206c22372.svg",
+    "static/media/desktop_banner_1.png": "./static/media/desktop_banner_1.120df2c6a0e1a621a1d1.png",
     "static/media/desktop_banner_4.png": "./static/media/desktop_banner_4.b62b5bd378f527d690bf.png",
     "static/media/boy-with-ukrainian-flag.png": "./static/media/boy-with-ukrainian-flag.c858b78c7bf6e7c74770.png",
-    "static/media/desktop_banner_1.png": "./static/media/desktop_banner_1.38838aae8f5b7fab6ab5.png",
     "static/media/about_us_bg.png": "./static/media/about_us_bg.079f7e6c8aba75a375c8.png",
     "static/media/desktop_banner_3.png": "./static/media/desktop_banner_3.c8bc1553ef7c4c122fed.png",
     "static/media/desktop_banner_2.png": "./static/media/desktop_banner_2.03c9f6b06ac94b12820f.png",
@@ -57,12 +57,12 @@
     "index.html": "./index.html",
     "static/media/arrow.svg": "./static/media/arrow.fbbe9ef762a65405bc076ddcaf9e9146.svg",
     "static/media/getFetch.cjs": "./static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
-    "main.aee274f3.css.map": "./static/css/main.aee274f3.css.map",
-    "main.bfe89e7c.js.map": "./static/js/main.bfe89e7c.js.map",
+    "main.2296bcf3.css.map": "./static/css/main.2296bcf3.css.map",
+    "main.96ec38b0.js.map": "./static/js/main.96ec38b0.js.map",
     "453.72d88ddf.chunk.js.map": "./static/js/453.72d88ddf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aee274f3.css",
-    "static/js/main.bfe89e7c.js"
+    "static/css/main.2296bcf3.css",
+    "static/js/main.96ec38b0.js"
   ]
 }
