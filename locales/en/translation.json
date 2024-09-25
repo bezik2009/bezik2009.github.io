@@ -35,7 +35,7 @@
   "team_achievements": "ACHIEVEMENTS OF OUR TEAM",
   "ach_1_1": "tone of humanitarian aid",
   "ach_1_2": "tone of humanitarian aid",
-  "mln_hrn": "million hryvnias",
+  "mln_hrn": "M UAH",
   "ach_2": "collected for the needs of defenders of Ukraine",
   "ach_3_1": "military units",
   "ach_3_2": "with whom we cooperate on a regular basis",
@@ -138,5 +138,6 @@
   "th_option_2": "mentions in posts on social networks",
   "th_option_3": "your logo on the foundation's website",
   "th_option_4": "other ways of distributing information about the partner",
-  "send_letter": "For further communication, send an email to the address"
+  "send_letter": "For further communication, send an email to the address",
+  "swipe_left": "Swipe left"
 }
