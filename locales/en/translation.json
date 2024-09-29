@@ -4,7 +4,7 @@
   "about_fond": "About fund",
   "projects": "Projects",
   "reporting": "Reporting",
-  "became_a_partner": "Became a partner",
+  "become_a_partner": "Become a partner",
   "support": "Support",
   "dlya_heroiv": "DLYA HEROIV",
   "banner_1_text": "WE HELP THE HEROES OF UKRAINE ON THE FRONT AND IN THE REAR",
@@ -77,6 +77,7 @@
   "ernest": "Ernest",
   "manager": "Development manager",
   "history": "History of the Fund",
+  "our_fund_history": "Our fund history",
   "history_date_1": "August",
   "history_text_1": "Creation of the charity project LIVE AID UKRAINE. The first grant was received for a charity concert tour in the cities of Ukraine in support of the Armed Forces of Ukraine.",
   "history_date_2": "September",
@@ -93,6 +94,12 @@
   "history_text_7": "The 4th charity concert tour was successfully held. With the collected funds, 20 fpv drones and 1 SUV were purchased for the Armed Forces.\n",
   "history_date_8": "December",
   "history_text_8": "During the year, the fund delivered humanitarian aid with a total value of UAH 14 million.",
+  "history_date_9": "January",
+  "history_text_9": "We’ve launched a new direction - 3D printing for the Armed Forces. Our volunteers designed, produced and handed over to the defenders first bullet loaders.",
+  "history_date_10": "June",
+  "history_text_10": "Development of 3D Printing direction. Handed over 600 bullet loaders. Constant printing of the components for SSO, 92 br., 93 br., 36 br.",
+  "history_date_11": "August",
+  "history_text_11": "In partnership with Faine Misto, we have performed the First Ukrainian Children Rock-Festival “Krok Do Zirok” in Lvyv. Thus, we’ve launched a direction - Contribution to talented young people development.",
   "media_presence": "MEDIA PRESENSE",
   "media_text": "Some of our interviews in which we talk about the latest events, share news, and introduce our team.",
   "all_videos": "All videos",
@@ -139,5 +146,6 @@
   "th_option_3": "your logo on the foundation's website",
   "th_option_4": "other ways of distributing information about the partner",
   "send_letter": "For further communication, send an email to the address",
-  "swipe_left": "Swipe left"
+  "swipe_left": "Swipe left",
+  "read_more": "Read more"
 }
